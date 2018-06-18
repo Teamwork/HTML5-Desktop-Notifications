@@ -2,6 +2,7 @@
   "name": "html5-notification",
   "libraryName": "HTML5 Notification",
   "description": "Notification polyfill",
+  "main": "dist/Notification.js",
   "version": "3.0.0",
   "homepage": "https://github.com/ttsvetko/HTML5-Desktop-Notifications",
   "bugs": {
